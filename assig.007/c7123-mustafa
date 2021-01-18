@@ -1,0 +1,7 @@
+name = 'Joseph'
+new = input("Please Enter Your Name :")
+
+if name == new :
+    print('Hello Joseph! The password is : W@12')
+else:
+    print('Hello, {}! See you later.'.format(new))
